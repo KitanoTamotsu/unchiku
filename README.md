@@ -1,2 +1,0 @@
-# unchiku
-Alfred workflow
