@@ -1,4 +1,3 @@
-## 　　Lesson21.　『アレクサ、うんちく教えて』をワークフローにする  
 #### 開発メモ
 ワークフロー
 <br>　<img width="600" src="https://user-images.githubusercontent.com/40127279/127756657-844234f8-22e1-4109-9f9b-44d84bb8a50f.png">
